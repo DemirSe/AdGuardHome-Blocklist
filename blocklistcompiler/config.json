@@ -24,6 +24,12 @@
       "source": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
       "type": "hosts",
       "transformations": ["RemoveComments", "Compress"]
+    },
+    {
+      "name": "Stalkerware Indicators List",
+      "source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress"]
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate","RemoveEmptyLines","TrimLines"]
