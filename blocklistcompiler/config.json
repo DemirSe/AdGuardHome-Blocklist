@@ -12,6 +12,12 @@
       "source": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress"]
+    },
+    {
+      "name": "Dandelion Sprout's Anti-Malware List",
+      "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress"]
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate","RemoveEmptyLines","TrimLines"]
