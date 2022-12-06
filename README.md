@@ -1,4 +1,4 @@
-# Demir's Blocklist For AdguardHome
+# Demir's Blocklist For AdGuardHome
 My personal blocklist compiled from other lists using [AdGuard's Hostlist Compiler](https://github.com/AdguardTeam/HostlistCompiler)
 #### You can use my list from [here](https://raw.githubusercontent.com/DemirSe/AdGuardHome-Blocklist/main/blocklist.txt)
 ##### List will be updated every hour
