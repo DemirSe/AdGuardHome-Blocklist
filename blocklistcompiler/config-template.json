@@ -1,0 +1,6 @@
+{
+    "name": "",
+    "source": "",
+    "type": "",
+    "transformations": ["RemoveComments", "Compress"]
+  }
