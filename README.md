@@ -14,5 +14,7 @@ My personal blocklist compiled from other lists using [AdGuard's Hostlist Compil
 | Malicious URL Blocklist (URLHaus) | [Source](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt) | [Homepage](https://github.com/curbengh/urlhaus-filter) |
 | 1Hosts (Lite) | [Source](https://badmojr.gitlab.io/1hosts/Lite/adblock.txt) | [Homepage](https://github.com/badmojr/1Hosts) |
 | Steven Black | [Source](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [Homepage](https://github.com/StevenBlack/hosts) |
-| EasyPrivacy | [Source](https://easylist.to/easylist/easyprivacy.txt) | [Homepage](https://easylist.to/) |
+| EasyList | [Source](https://easylist.to/easylist/easylist.txt) | [Homepage](https://easylist.to) |
+| EasyPrivacy | [Source](https://easylist.to/easylist/easyprivacy.txt) | [Homepage](https://easylist.to) |
 | GoodBye Ads | [Source](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) | [Homepage](https://github.com/jerryn70/GoodbyeAds) |
+| Fanboy's Annoyance List | [Source](https://secure.fanboy.co.nz/fanboy-annoyance.txt) | [Homepage](https://fanboy.co.nz/) |

@@ -62,6 +62,18 @@
       "transformations": ["RemoveComments", "Compress"]
     },
     {
+      "name": "EasyList",
+      "source": "https://easylist.to/easylist/easylist.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress"]
+    },
+    {
+      "name": "Fanboy's Annoyance List",
+      "source": "https://secure.fanboy.co.nz/fanboy-annoyance.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress"]
+    }
+    ,{
       "name": "GoodBye Ads",
       "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
       "type": "adblock",
