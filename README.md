@@ -3,7 +3,7 @@ My personal blocklist compiled from other lists using [AdGuard's Hostlist Compil
 #### You can use my list from [here](https://raw.githubusercontent.com/DemirSe/AdGuardHome-Blocklist/main/blocklist.txt)
 ##### List will be updated every hour
 ## Included Lists
-| List Name | Source | Homepage |
+| List Name | |  |
 |---|---|---|
 | OISD Blocklist Full| [Source](https://abp.oisd.nl/) | [Homepage](https://oisd.nl/) |
 | Phishing URL Blocklist (PhishTank and OpenPhish) | [Source](https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt) |
