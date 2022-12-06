@@ -1,5 +1,6 @@
 # AdGuardHome-Blocklist
 My personal blocklist compiled from other lists using [AdGuard's Hostlist Compiler](https://github.com/AdguardTeam/HostlistCompiler)
+List will be updated everday at Etc/GMT+0	 00:00
 #### You can use my list from [here](https://raw.githubusercontent.com/DemirSe/AdGuardHome-Blocklist/main/blocklist.txt)
 ## Included Lists
 | List Name | Source |
