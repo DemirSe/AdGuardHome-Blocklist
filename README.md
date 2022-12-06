@@ -10,3 +10,4 @@ My personal blocklist compiled from other lists using [AdGuard's Hostlist Compil
 | Dandelion Sprout's Anti-Malware List | [Source](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt) |
 | NoCoin Filter List | [Source](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt) |
 | Stalkerware Indicators List | [Source](https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts) |
+| The Big List of Hacked Malware Web Sites | [Source](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts) |

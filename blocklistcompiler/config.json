@@ -30,6 +30,12 @@
       "source": "https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts",
       "type": "hosts",
       "transformations": ["RemoveComments", "Compress"]
+    },
+    {
+      "name": "The Big List of Hacked Malware Web Sites",
+      "source": "https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress"]
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate","RemoveEmptyLines","TrimLines"]
