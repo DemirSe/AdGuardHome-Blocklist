@@ -1,29 +1,18 @@
 {
-  "name": "List name",
-  "description": "List description",
-  "homepage": "https://example.org/",
-  "license": "GPLv3",
+  "name": "Demir's Blocklist For AdguardHome",
   "sources": [
     {
-      "name": "Local rules",
-      "source": "rules.txt",
+      "name": "oisd.nl",
+      "source": "https://abp.oisd.nl/",
       "type": "adblock",
-      "transformations": ["RemoveComments", "Compress"],
-      "exclusions": ["excluded rule 1"],
-      "exclusions_sources": ["exclusions.txt"],
-      "inclusions": ["*"],
-      "inclusions_sources": ["inclusions.txt"]
+      "transformations": ["RemoveComments", "Compress"]
     },
     {
-      "name": "Remote rules",
-      "source": "https://example.org/rules",
-      "type": "hosts",
-      "exclusions": ["excluded rule 1"]
+      "name": "Phishing URL Blocklist (PhishTank and OpenPhish)",
+      "source": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress"]
     }
   ],
-  "transformations": ["Deduplicate", "Compress"],
-  "exclusions": ["excluded rule 1", "excluded rule 2"],
-  "exclusions_sources": ["global_exclusions.txt"],
-  "inclusions": ["*"],
-  "inclusions_sources": ["global_inclusions.txt"]
+  "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate","RemoveEmptyLines","TrimLines"]
 }
