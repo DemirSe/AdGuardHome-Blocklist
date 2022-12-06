@@ -18,6 +18,12 @@
       "source": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress"]
+    },
+    {
+      "name": "NoCoin Filter List",
+      "source": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress"]
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate","RemoveEmptyLines","TrimLines"]
