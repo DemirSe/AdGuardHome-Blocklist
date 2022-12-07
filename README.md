@@ -18,3 +18,4 @@ My personal blocklist compiled from other lists using [AdGuard's Hostlist Compil
 | EasyPrivacy | [Source](https://easylist.to/easylist/easyprivacy.txt) | [Homepage](https://easylist.to) |
 | GoodBye Ads | [Source](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) | [Homepage](https://github.com/jerryn70/GoodbyeAds) |
 | Fanboy's Annoyance List | [Source](https://secure.fanboy.co.nz/fanboy-annoyance.txt) | [Homepage](https://fanboy.co.nz/) |
+| AdGuard DNS Filter | [Source](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [Homepage](https://github.com/AdguardTeam/AdGuardSDNSFilter) |

@@ -78,6 +78,12 @@
       "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress"]
+    },
+    {
+      "name": "AdGuard DNS Filter",
+      "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress"]
     }
   ],
   "transformations": ["RemoveComments","Compress","RemoveModifiers","Validate","Deduplicate","RemoveEmptyLines","TrimLines"]
