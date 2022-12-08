@@ -3,13 +3,7 @@
   "sources": [
     {
       "name": "Hagezi",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments"]
-    },
-    {
-      "name": "Notracking",
-      "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
       "type": "adblock",
       "transformations": ["RemoveComments"]
     },
