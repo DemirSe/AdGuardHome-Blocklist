@@ -2,14 +2,20 @@
   "name": "Demir's Blocklist For AdguardHome",
   "sources": [
     {
-      "name": "oisd.nl",
-      "source": "https://abp.oisd.nl/",
+      "name": "Hagezi",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
       "type": "adblock",
-      "transformations": ["RemoveComments", "Compress"]
+      "transformations": ["RemoveComments"]
     },
     {
-      "name": "1Hosts Lite",
-      "source": "https://badmojr.github.io/1Hosts/Lite/adblock.txt",
+      "name": "Notracking",
+      "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments"]
+    },
+    {
+      "name": "CipherOps",
+      "source": "https://raw.githubusercontent.com/CipherOps/AdList/main/Blocklist",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress"]
     }

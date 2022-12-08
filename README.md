@@ -5,5 +5,6 @@ My personal blocklist compiled from other lists using [AdGuard's Hostlist Compil
 ## Included Lists
 | List Name | |  |
 |---|---|---|
-| OISD Blocklist Full| [Source](https://abp.oisd.nl/) | [Homepage](https://oisd.nl/) |
-| 1Hosts Lite | [Source](https://badmojr.github.io/1Hosts/Lite/adblock.txt) | [Homepage](https://github.com/badmojr/1Hosts) |
+| Hagezi | [Source](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt) | [Homepage](https://github.com/hagezi/dns-blocklists) |
+| Notracking | [Source](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | [Homepage](https://github.com/notracking/hosts-blocklists) |
+| CipherOps  | [Source](https://raw.githubusercontent.com/CipherOps/AdList/main/Blocklist) | [Homepage](https://github.com/CipherOps/AdList) |
