@@ -12,7 +12,6 @@ My personal blocklist compiled from other lists using [AdGuard's Hostlist Compil
 | Stalkerware Indicators List | [Source](https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts) | [Homepage](https://github.com/AssoEchap/stalkerware-indicators) |
 | The Big List of Hacked Malware Web Sites | [Source](https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts) | [Homepage](https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites) |
 | Malicious URL Blocklist (URLHaus) | [Source](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt) | [Homepage](https://github.com/curbengh/urlhaus-filter) |
-| 1Hosts (Lite) | [Source](https://badmojr.gitlab.io/1hosts/Lite/adblock.txt) | [Homepage](https://github.com/badmojr/1Hosts) |
 | Steven Black | [Source](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [Homepage](https://github.com/StevenBlack/hosts) |
 | EasyList | [Source](https://easylist.to/easylist/easylist.txt) | [Homepage](https://easylist.to) |
 | EasyPrivacy | [Source](https://easylist.to/easylist/easyprivacy.txt) | [Homepage](https://easylist.to) |

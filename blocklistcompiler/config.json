@@ -44,12 +44,6 @@
       "transformations": ["RemoveComments", "Compress"]
     },
     {
-      "name": "1Hosts (Lite)",
-      "source": "https://badmojr.gitlab.io/1hosts/Lite/adblock.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments", "Compress"]
-    },
-    {
       "name": "Steven Black",
       "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
       "type": "hosts",
