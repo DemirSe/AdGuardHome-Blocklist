@@ -8,6 +8,18 @@
       "transformations": ["RemoveComments"]
     },
     {
+      "name": "Hagezi's Threat Intelligence Feeds",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments"]
+    },
+    {
+      "name": "Hagezi's Dynamic DNS Blocking",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments"]
+    }
+    ,{
       "name": "CipherOps",
       "source": "https://raw.githubusercontent.com/CipherOps/AdList/main/Blocklist",
       "type": "adblock",
